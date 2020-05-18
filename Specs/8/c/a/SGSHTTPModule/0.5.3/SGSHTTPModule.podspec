@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source_files = 'SGSHTTPModule/Classes/**/*'
   s.public_header_files = 'SGSHTTPModule/Classes/**/*.{h}'
   
-  s.dependency 'AFNetworking', '~> 3.2.0'
+  s.dependency 'AFNetworking', '~> 4.0'
 end
